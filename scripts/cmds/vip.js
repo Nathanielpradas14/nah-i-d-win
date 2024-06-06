@@ -1,4 +1,4 @@
-const header = `👑 CHATBOTV5 VIP USERS 👑`;
+const header = `👑 ERICSONCHATBOT VIP USERS 👑`;
 
 const fs = require("fs");
 
